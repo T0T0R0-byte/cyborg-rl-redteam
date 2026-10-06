@@ -53,6 +53,10 @@ be added as they are produced. Nothing in this repository claims results that do
 
 **Faraj Farook** (CB012653), BSc (Hons) Cyber Security.
 
+## The reports as submitted
+
+The original submitted documents are in [`reports/`](reports/), kept alongside the write-up above so the artefact can be checked directly.
+
 ## License
 
 MIT for the repository contents, see [LICENSE](LICENSE). Cited papers remain the property of their

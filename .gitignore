@@ -1,5 +1,7 @@
 *.docx
+!reports/**
 *.pdf
+!reports/**
 *.pptx
 *.zip
 *.egg-info/
