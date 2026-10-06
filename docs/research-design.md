@@ -1,9 +1,9 @@
 # FYP Design - Autonomous RL Red-Team Agent (CybORG)
 
-**Prepared for:** Faraj (CB012653), BSc Cyber Security, APIIT/Staffordshire
-**Date:** 2026-09-02 (updated 2026-09-02 with clickable sources, classmate comparison, requirement compliance)
+**Author:** Faraj Farook (CB012653), BSc (Hons) Cyber Security
+**Date:** 2026-09-02
 
-**Direction chosen by you:** autonomous, offensive-flavored AI research (exploits/red team/evasion), with ML training and evaluation. Selected: **reinforcement-learning red-team agent in CybORG**.
+**Direction:** autonomous, offensive-flavored AI research (exploits/red team/evasion), with ML training and evaluation. Selected: **reinforcement-learning red-team agent in CybORG**.
 
 ---
 
