@@ -1,0 +1,12 @@
+*.docx
+*.pdf
+*.pptx
+*.zip
+*.egg-info/
+__pycache__/
+.venv/
+runs/
+wandb/
+*.pth
+*.pt
+.DS_Store
